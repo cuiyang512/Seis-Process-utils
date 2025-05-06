@@ -1,2 +1,2 @@
 # Seis-Process-utils
-A seismic processing package
+Collections of useful seismic data processing, analysis, and visualization packages
